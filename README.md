@@ -7,6 +7,8 @@ the project.
 The following game was made in 45 minutes in a workshop at the Computer Lab at
 the University of Cambridge.
 
+You can find the slides to the presentation [here](https://docs.google.com/presentation/d/1wOVtJX9o5jUf5vI0UNhKSvo-ZifTfpspXx5_Knn2erI/edit?usp=sharing).
+
 ![screenshot](https://github.com/hackersatcambridge/game-workshop/raw/master/screenshot.png)
 
 ## Credits
